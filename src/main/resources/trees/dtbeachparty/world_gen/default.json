@@ -1,0 +1,16 @@
+[
+  {
+    "select": {
+      "tag": "#forge:is_beach"
+    },
+    "apply": {
+      "species": {
+        "method": "splice_before",
+        "random": {
+          "dtbeachparty:palm": 1,
+          "...": 2
+        }
+      }
+    }
+  }
+]
