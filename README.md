@@ -1,3 +1,2 @@
-# Dynamic Trees for FruitTrees
+# Dynamic Trees for Beachparty
  
-[curseforge](https://legacy.curseforge.com/minecraft/mc-mods/dynamic-trees-for-fruit-trees)
