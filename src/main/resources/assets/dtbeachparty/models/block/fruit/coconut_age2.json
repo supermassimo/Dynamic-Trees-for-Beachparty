@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"particle": "beachparty:block/coconut",
+		"fruit": "beachparty:block/coconut",
+		"stem": "beachparty:block/palm_leaves"
+	},
+	"elements": [
+		{
+			"name": "coconut",
+			"from": [4.4, 6.4, 0],
+			"to": [11.6, 13.6, 7.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.6, 5.6, 8]},
+			"faces": {
+				"north": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"},
+				"east": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"},
+				"south": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"},
+				"west": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"},
+				"up": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"},
+				"down": {"uv": [0, 8.5, 7.5, 16], "texture": "#fruit"}
+			}
+		},
+		{
+			"name": "stub",
+			"from": [8, 13.6, -5.8],
+			"to": [8, 17.6, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.8, 8.2]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"east": {"uv": [16, 4, 9.5, 7.5], "texture": "#stem"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"west": {"uv": [9.5, 4, 16, 7.5], "texture": "#stem"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#stem"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#stem"}
+			}
+		}
+	]
+}
