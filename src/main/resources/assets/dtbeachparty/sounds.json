@@ -1,0 +1,9 @@
+{
+  "falling_fruit.bonk": {
+    "category": "blocks",
+    "subtitle": "subtitle.dtbeachparty.falling_fruit.bonk",
+    "sounds": [{
+      "name": "dtbeachparty:blocks/fruit/bonk"
+    }]
+  }
+}
